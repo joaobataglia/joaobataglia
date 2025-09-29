@@ -35,4 +35,4 @@ These experiences have helped me improve teamwork, emotional management, financi
 
 ## GitHub Stats
 
-[![João’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Capitaojob)](https://github.com/Capitaojob)
+[![João’s GitHub stats](https://github-readme-stats.vercel.app/api?username=joaobataglia)](https://github.com/joaobataglia)
